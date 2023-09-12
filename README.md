@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pekaydinipek
 - 👀 I’m interested in programming, reading, listening music, playing volleybal and playing piano.
-- 👩🏽‍💻 I started programming 6 months ago.
+- 👩🏽‍💻 I started programming at 07.2023.
 - 🌱 I’m currently learning python programming language.
 
 <!---
